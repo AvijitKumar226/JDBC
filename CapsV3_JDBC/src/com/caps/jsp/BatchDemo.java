@@ -10,7 +10,7 @@ public class BatchDemo {
 		
 		Connection con=null;
 		Statement stmt=null;
-		
+		 
 		
 		
 		//1. Load the driver
